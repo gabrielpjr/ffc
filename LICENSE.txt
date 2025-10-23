@@ -1,0 +1,23 @@
+📜 License & Usage Notice
+
+Copyright © 2025 FlipFlop Comics® All Rights Reserved.
+
+This repository and its contents — including but not limited to all code, artwork, designs, images, and documentation — are the exclusive property of FlipFlop Comics®
+
+1. Private and Proprietary Materials
+
+All photos, source code, and creative content in this repository are private and not licensed for public use, reproduction, distribution, modification, or commercial purposes without explicit written permission from FlipFlop Comics®
+
+2. Trademark Notice
+
+FlipFlop Comics® is a registered trademark.
+Unauthorized use of the FlipFlop Comics® name, logo, or any confusingly similar mark is strictly prohibited.
+
+3. No License Granted
+
+This repository does not grant any license or rights to use, copy, modify, or distribute any of the materials contained herein. All rights are reserved under applicable copyright and trademark laws.
+
+4. Contact
+
+For permissions, licensing, or inquiries, please contact:
+📧 info@flipflopcomics.com
